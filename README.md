@@ -167,7 +167,7 @@ Prompt là thành phần quan trọng nhất của hệ thống.
 
 Chương trình không gửi trực tiếp bài làm của sinh viên tới Gemini mà xây dựng một Prompt hoàn chỉnh gồm nhiều thành phần.
 
-### 3.1. Bối cảnh hệ thống
+### 3.1. Bối cảnh hệ thống - Optional (Do bài thi này, phần đầu các câu hỏi tự luận đều giống nhau nên sẽ có Bối cảnh hệ thống để tiết kiệm công gõ tay)
 
 Prompt đầu tiên mô tả toàn bộ bối cảnh mạng của đề thi.
 
